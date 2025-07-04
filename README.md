@@ -9,7 +9,7 @@ Join our [Discord](https://gaming.v10networks.com/Discord) and start with [Salty
 Before starting with the setup, make sure you have OneSync enabled and your server artifacts are up to date.
 
 1. Download the latest [release](https://github.com/v10networkscom/saltychat-fivem/releases) and extract it into your resources
-2. Add `start saltychat` (and `start saltyhud`) into your `server.cfg`
+2. Add `start saltychat` into your `server.cfg`
 3. Open `config.json` and adjust the [variables](https://github.com/v10networkscom/saltychat-docs/blob/master/setup.md#config-variables)
 ```
   "VoiceEnabled": true,
